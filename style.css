@@ -143,7 +143,7 @@ header #menu
 {
     padding-top:20%;
     font-size:4rem;
-    text-shadow: 2px 2px #fa4975;
+    text-shadow: 2px 2px pink;
     letter-spacing: 1px;
 }
 .home p 
@@ -216,7 +216,7 @@ button:hover
     width:100%;
     height: auto;
     padding:6rem 4rem;
-    box-shadow:0 .2rem .5rem rgb(236, 35, 119) ;
+    box-shadow:0 .2rem .5rem rgb(244, 121, 142) ;
     text-align: center;
     background:rgb(106 94 201);
     border-radius: 5px;
@@ -227,7 +227,7 @@ button:hover
     color:#fff;
     padding:.5rem 0;
     letter-spacing:.2rem;
-    text-shadow: .2rem .2rem #fa4975;
+    text-shadow: .2rem .2rem pink;
 }
 .about-content p 
 {
@@ -316,7 +316,7 @@ button:hover
     padding:1.2rem;
     margin:1.5rem;
     border-radius:1rem;
-    box-shadow:0 .3rem .6rem rgb(236, 35, 119);
+    box-shadow:0 .3rem .6rem pink;
     text-align: center;
 }
 .cake-product .inner-cake-col:hover 
@@ -425,7 +425,7 @@ button:hover
     padding:1rem;
     flex:1 1 21rem;
     border-radius: 1rem;
-    box-shadow: 0 .5rem 1rem rgb(236, 35, 119);
+    box-shadow: 0 .5rem 1rem pink;
 }
 .service .cake-row .image img 
 {

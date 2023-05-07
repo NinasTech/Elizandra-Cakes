@@ -133,7 +133,7 @@ header #menu
 /*----------------section-------------*/
 .home 
 {
-    background:linear-gradient(rgba(241, 155, 155, 0.5),rgba(0, 0, 0, 0.5)),url("back1.jpg");
+    background:linear-gradient(rgba(241, 155, 155, 0.5),rgba(0, 0, 0, 0.5)),url("pic5.jpeg");
     background-position: center;
     background-size: cover;
     color: #fff;
@@ -565,6 +565,6 @@ button:hover
 {
     letter-spacing: .1rem;
     font-size: 1.5rem;
-    color:rgb(106 94 201);
+    color:rgb(205, 202, 227);
 }
 
